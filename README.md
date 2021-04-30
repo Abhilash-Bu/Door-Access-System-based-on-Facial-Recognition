@@ -1,0 +1,2 @@
+# Door-Access-System-based-on-Facial-Recognition
+Uses Machine Learning concepts of Facial Recognition to unlock a door, Contains Face and Eye Detection, Face Storing with Security Additions (OTP SMS request, WhatsApp request), Face training, Face Recognition, Timed-Face Recognition (The recognition window is accessed for 15 seconds) and also Application project of Theft Detection (Timed Scanning  of Entry and Exit, if person doesn't exit within certain time door gets locked). Consists of Admin, Client Interface, WhatsApp Messaging.
